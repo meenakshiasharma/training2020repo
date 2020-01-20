@@ -1,2 +1,4 @@
-# training2020repo
+# Project :: training2020repo
+
+## Purpose
 Training Repository
