@@ -1,4 +1,4 @@
 # Project :: training2020repo
 
 ## Purpose
-Training Repository
+Training Repository used for DevOps project.
